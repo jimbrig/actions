@@ -120,7 +120,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jimbrig/actions](https://github.com/jimbrig/actions)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|226<br/>Tools used|12/07/23 <br/>Report generated|
+|237<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -685,9 +685,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (161)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (172)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (161)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (172)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -731,6 +731,7 @@ Full tech stack [here](/techstack.md)
 |[body-parser](https://www.npmjs.com/body-parser)|v1.10.2|08/15/20|Gábor Csárdi |MIT|N/A|
 |[brace-expansion](https://www.npmjs.com/brace-expansion)|v1.1.11|09/29/21|Gabor Csardi |MIT|N/A|
 |[camelcase](https://www.npmjs.com/camelcase)|v5.3.1|09/29/21|Gabor Csardi |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|05/24/21|Gábor Csárdi |MIT|N/A|
 |[cli-table](https://www.npmjs.com/cli-table)|v0.3.1|08/15/20|Gábor Csárdi |MIT|N/A|
 |[clone](https://www.npmjs.com/clone)|v1.0.4|09/29/21|Gabor Csardi |MIT|N/A|
 |[co](https://www.npmjs.com/co)|v4.2.0|08/15/20|Gábor Csárdi |MIT|N/A|
@@ -759,6 +760,7 @@ Full tech stack [here](/techstack.md)
 |[fast-glob](https://www.npmjs.com/fast-glob)|v3.2.10|01/12/22|Gábor Csárdi |MIT|N/A|
 |[faucet](https://www.npmjs.com/faucet)|v0.0.1|09/29/21|Gabor Csardi |MIT|N/A|
 |[find-up](https://www.npmjs.com/find-up)|v4.1.0|09/29/21|Gabor Csardi |MIT|N/A|
+|[flow-bin](https://www.npmjs.com/flow-bin)|v0.68.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[form-data](https://www.npmjs.com/form-data)|v3.0.0|01/12/22|Gábor Csárdi |MIT|N/A|
 |[function-bind](https://www.npmjs.com/function-bind)|v1.1.1|09/29/21|Gabor Csardi |MIT|N/A|
 |[get-port](https://www.npmjs.com/get-port)|v5.0.0|09/29/21|Gabor Csardi |MIT|N/A|
@@ -772,6 +774,7 @@ Full tech stack [here](/techstack.md)
 |[has](https://www.npmjs.com/has)|v1.0.3|05/24/21|Gábor Csárdi |MIT|N/A|
 |[highland](https://www.npmjs.com/highland)|v2.3.0|08/15/20|Gábor Csárdi |Apache-2.0|N/A|
 |[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v2.8.9|09/29/21|Gabor Csardi |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v3.0.5|09/29/21|Gabor Csardi |MIT|N/A|
 |[ignore](https://www.npmjs.com/ignore)|v5.2.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[in-publish](https://www.npmjs.com/in-publish)|v2.0.1|01/12/22|Gábor Csárdi |ISC|N/A|
 |[indent-string](https://www.npmjs.com/indent-string)|v4.0.0|09/29/21|Gabor Csardi |MIT|N/A|
@@ -781,8 +784,10 @@ Full tech stack [here](/techstack.md)
 |[is-glob](https://www.npmjs.com/is-glob)|v4.0.3|09/29/21|Gabor Csardi |MIT|N/A|
 |[is-plain-obj](https://www.npmjs.com/is-plain-obj)|v1.1.0|07/18/20|Gábor Csárdi |MIT|N/A|
 |[is-stream](https://www.npmjs.com/is-stream)|v2.0.1|09/29/21|Gabor Csardi |MIT|N/A|
+|[jscs](https://www.npmjs.com/jscs)|v3.0.7|09/29/21|Gabor Csardi |MIT|N/A|
 |[jshint-stylish](https://www.npmjs.com/jshint-stylish)|v0.2.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[kind-of](https://www.npmjs.com/kind-of)|v6.0.3|07/18/20|Gábor Csárdi |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v9.2.5|09/29/21|Gabor Csardi |MIT|N/A|
 |[log-symbols](https://www.npmjs.com/log-symbols)|v3.0.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[log-update](https://www.npmjs.com/log-update)|v3.2.0|01/12/22|Gábor Csárdi |MIT|N/A|
 |[lolex](https://www.npmjs.com/lolex)|v6.0.0|09/29/21|Gabor Csardi |BSD-3-Clause|N/A|
@@ -823,7 +828,9 @@ Full tech stack [here](/techstack.md)
 |[resolve-from](https://www.npmjs.com/resolve-from)|v4.0.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|08/15/20|Gábor Csárdi |ISC|N/A|
 |[run-parallel](https://www.npmjs.com/run-parallel)|v1.2.0|09/29/21|Gabor Csardi |MIT|N/A|
+|[rx](https://www.npmjs.com/rx)|v2.3.25|08/15/20|Gábor Csárdi |Apache-2.0|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|01/12/22|Gábor Csárdi |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v18.0.0|01/12/22|Gábor Csárdi |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[semver](https://www.npmjs.com/semver)|v5.7.1|05/24/21|Gábor Csárdi |ISC|[CVE-2022-25883](https://github.com/advisories/GHSA-c2qf-rxjj-qqgw) (Moderate)|
 |[serve-static](https://www.npmjs.com/serve-static)|v1.7.1|09/29/21|Gabor Csardi |MIT|[CVE-2015-1164](https://github.com/advisories/GHSA-c3x7-gjmx-r2ff) (Low)|
 |[should](https://www.npmjs.com/should)|v10.0.0|07/18/20|Gábor Csárdi |MIT|N/A|
@@ -836,6 +843,7 @@ Full tech stack [here](/techstack.md)
 |[strip-indent](https://www.npmjs.com/strip-indent)|v3.0.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[supports-color](https://www.npmjs.com/supports-color)|v5.5.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|v2.0.0|07/18/20|Gábor Csárdi |ISC|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.6.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[tempfile](https://www.npmjs.com/tempfile)|v3.0.0|09/29/21|Gabor Csardi |MIT|N/A|
 |[tempy](https://www.npmjs.com/tempy)|v0.4.0|01/12/22|Gábor Csárdi |MIT|N/A|
 |[text-table](https://www.npmjs.com/text-table)|v0.2.0|08/16/20|Gábor Csárdi |MIT|N/A|
@@ -849,6 +857,9 @@ Full tech stack [here](/techstack.md)
 |[uglify-js](https://www.npmjs.com/uglify-js)|v2.4.16|08/15/20|Gábor Csárdi |BSD-2-Clause|[CVE-2015-8857](https://github.com/advisories/GHSA-34r7-q49f-h37c) (Critical)<br/>[](https://github.com/advisories/GHSA-g6f4-j6c2-w3p3) (High)<br/>[CVE-2015-8858](https://github.com/advisories/GHSA-c9f4-xj24-8jqx) (High)|
 |[which](https://www.npmjs.com/which)|v2.0.2|07/18/20|Gábor Csárdi |ISC|N/A|
 |[write](https://www.npmjs.com/write)|v1.0.3|07/18/20|Gábor Csárdi |MIT|N/A|
+|[xmldom](https://www.npmjs.com/xmldom)|v0.6.0|01/12/22|Gábor Csárdi |MIT|[CVE-2022-39353](https://github.com/advisories/GHSA-crh6-fp67-6883) (Critical)<br/>[CVE-2022-37616](https://github.com/advisories/GHSA-9pgh-qqpf-7wqj) (Critical)<br/>[CVE-2021-32796](https://github.com/advisories/GHSA-5fg8-2547-mr8q) (Moderate)|
+|[xo](https://www.npmjs.com/xo)|v0.11.2|07/18/20|Gábor Csárdi |MIT|N/A|
+|[xpath](https://www.npmjs.com/xpath)|v0.0.27|07/18/20|Gábor Csárdi |MIT|N/A|
 |[yargs-parser](https://www.npmjs.com/yargs-parser)|v18.1.3|09/29/21|Gabor Csardi |ISC|N/A|
 |[yauzl](https://www.npmjs.com/yauzl)|v2.10.0|01/12/22|Gábor Csárdi |MIT|N/A|
 |[zen-observable](https://www.npmjs.com/zen-observable)|v0.8.8|01/12/22|Gábor Csárdi |MIT|N/A|
