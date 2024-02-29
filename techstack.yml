@@ -2,7 +2,7 @@ repo_name: jimbrig/actions
 report_id: 378164e82a06adf52a9fec89ea3a9dbe
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:29:14+00:00'
+timestamp: '2024-02-29T19:00:34+00:00'
 requested_by: gaborcsardi
 provider: github
 branch: master
@@ -408,7 +408,7 @@ tools:
   last_updated_by: Gábor Csárdi
   last_updated_on: 2020-07-18 13:33:35.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.4
   license: MIT
@@ -3342,7 +3342,7 @@ tools:
     cve_url: https://github.com/advisories/GHSA-5fg8-2547-mr8q
     detected_date: Aug 22
     severity: moderate
-    first_patched: 0.7.0
+    first_patched: 
 - name: xo
   description: JavaScript linter with great defaults
   package_url: https://www.npmjs.com/xo
